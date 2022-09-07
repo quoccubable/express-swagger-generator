@@ -97,7 +97,7 @@ For model definitions:
 
 /**
  * This function comment is parsed by doctrine
- * sdfkjsldfkj
+ *
  * @route POST /users
  * @param {Point.model} point.body.required - the new point
  * @group foo - Operations about user
